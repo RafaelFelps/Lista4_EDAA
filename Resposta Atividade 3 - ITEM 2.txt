@@ -1,0 +1,2 @@
+Resultado final = 8
+Ttamanho da pilha = 1
